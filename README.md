@@ -39,7 +39,7 @@
 
 ## Project Structure:
 
-![Project Structure](D:\dev\package\project-sample\vuex-template\vue-project-architecture.png)
+![Project Structure](./vue-project-architecture.png)
 
 
 
